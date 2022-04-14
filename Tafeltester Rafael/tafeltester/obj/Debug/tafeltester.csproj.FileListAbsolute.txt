@@ -1,0 +1,17 @@
+C:\Users\rafae\source\repos\tafeltester\bin\Debug\tafeltester.exe.config
+C:\Users\rafae\source\repos\tafeltester\bin\Debug\tafeltester.exe
+C:\Users\rafae\source\repos\tafeltester\bin\Debug\tafeltester.pdb
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\tafeltester.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\MainWindow.g.cs
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\App.g.cs
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\tafeltester_MarkupCompile.cache
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\tafeltester_MarkupCompile.lref
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\MainWindow.baml
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\tafeltester.g.resources
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\tafeltester.Properties.Resources.resources
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\tafeltester.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\tafeltester.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\tafeltester.exe
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\tafeltester.pdb
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\Test.g.cs
+C:\Users\rafae\source\repos\tafeltester\obj\Debug\Test.baml
